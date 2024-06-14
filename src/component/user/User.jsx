@@ -8,7 +8,7 @@ const User = () => {
 
     useEffect(() => {
         axios
-            .get
+            .get("")
     })
   return (
     <div>
